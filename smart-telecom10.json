@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-telecom10",
+  "private_key_id": "b151dd7670f4ea8afda66f6ea755ba2c31a77afe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8qEC6MUaIWHFC\nG24CYNWM5PIJBRGifOWMNy0lg/Em1o9a2Qo+/7VXgZ4s+xELVvH0GZ8k1Qr4CXCg\nHJmNTM+Ln4mYDtOzdYVu91fFmoy8NGjvAIawGPXYAa9mNaZtwFMS8dCftncybyU+\njzm/tRlbHwPNd5fzNxExlw+34vmm91fl5R8KMbP2wiELCBHlkSC21HKBO/cqbN+I\nkdbeAgkObz9uhN5e7YKABMXZT5/ApNyDU+sMckDewgMRD5O3vJMDrickqyBT5MsL\n3CFHnl4qO1Bdp3BQcBD4BuM46/V8HmrvCSn0hODZlrbx7skiSBGP8DYXc1XhieYV\n5DUeSRajAgMBAAECggEAHMnszVzyn0t7xl5AMdhhY3WWd7OQfC66AA/Kxw702vvi\noWGTHjJQPnEXAv8xxny3QbbdNwt+99hyRC9JFqu81NjSGuRRqvDenU8yU4MLlzbE\n4oqT2HCJUjP49kxulWXuvL/Y7wkISdJ106+bMjrVCozXkYr+ouHphkXqjfby05G9\nAuSSmuUIfdzvPFAW2OqT9C/2+smaN0y4Z4YjVckNMPkSxrX08wwJXq5IOenShEsd\nebi0ABEs2Fc4ir8SM8xMdKFMpa72S5pzWkF1N5/0ojCqfukmaWPVRlmEv9bF7tgL\nO8MA/DePQWS8sYcLPpbHvGs3vRkoYIYv56RxaZ990QKBgQDddMuNyYuGXp2oqkQy\n85Rlk3RhveNqWQCCVgQ9IG0thddyHaJXDBczxSVIFxDALk2+N7Q/n+bHlMJr3pea\nLcJstDkUyuth6EmCCEcelqM/4G86P6/cn3Ej0fZ4aLFilroF/cj+8cO7BPC3zyJs\nDWntc4Vu+tjD7SxVhM0X0I5SEwKBgQDaFbnkIo8/5SoASJV5k9t1BNJvzkYqnC5t\n1p8fIyO/7PbGyi29VKnZtljKA5qvpkPOcEIajwq/pg4f6otWKw9rVAzEHYtWRhP9\nIvp7LJJQZHIJcJw/jweapXc6gV2PI4Kfl5IsSPWyVqsw1gC9CB6O7QG7n30DhftI\nlNXzDXs7MQKBgFsRGlu2E6Av7FldmynwrIeQuX0wHwKukt0GDjwsx3i+3zfYI9fz\n6t6pJYmdoo/E+sdMFN1NHhPYgpLlOCZ4xsj427hHMcBTS1cjnEth2sP7wQGNCv6I\nunfmcZpWQwutu9WW5T6hoMGZaHvNu/P/GB5DMQ3QLa90KpUIRWaTptLtAoGASmZb\nEp9Pq4asu4gHpoBwwA0zFX2Tpnm9xS8Q/fho+9MFpW/YBt1ZTLLOu6xbG01nmIfn\npVPjYNpvuyey/WSXUBBOgqFppbcmnpdOSLM9/zslRF8sjupmt7V3ZXg4yNped7+n\n2H/TglHa+UAo5FReyHfGvZF9frQ4s9xC2TZiMiECgYEAgz7NPwpM/FZtNseYiVkB\n9Rvekp0LbTbRtM7kJVk8VirCAcVkXjsn9QYUC6srTcG2dKbtO7Xq0PIAAbzCDBFW\no/NniyTvDlW+9LEx1j27d3ts0lIErODZAyDuJsBC677hPRLmdm1jJ7bFudkpbKNS\nDUeXURg/q/9Jat8/ai28FRA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7bi8k@smart-telecom10.iam.gserviceaccount.com",
+  "client_id": "104560065868402200777",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7bi8k%40smart-telecom10.iam.gserviceaccount.com"
+}
